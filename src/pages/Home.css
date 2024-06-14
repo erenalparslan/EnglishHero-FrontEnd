@@ -1,0 +1,18 @@
+.header {
+    background-color: #001529;
+    padding: 0;
+  }
+  
+  .content {
+    padding: 50px;
+  }
+  
+  .post-page {
+    padding: 20px;
+  }
+  
+  .post-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
